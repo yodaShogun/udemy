@@ -1,0 +1,30 @@
+commentaire sur une ligne: #
+                plusieurs lignes: """ """
+conversion entier en chaine de charactere : str()
+            charactere en entier: int()
+
+erreur explicite: except type d'exception: 
+
+constante nom de variable en Majuscules
+parametre optionnel initialise a 0
+formatage des chqines des charactere
+
+print sur plusieurs lignes: print(""" """)
+print avec des arguments: print(" ",!!!!)
+
+print(f" {} ")
+print(" %s "%())
+for i in range (n, n-1) 
+
+Collections
+types de collection: listes, tuples, dictionnaires
+slices: Couper une liste afin d'en extraire une partie [n:] [:n]
+append: ajouter un element a la suite d'une liste 
+extend/+=: ajouter une a une les elements d'une liste dans une autre 
+insert: ajouter un element dans un lieu precis de la liste 
+sort: trier une liste 
+
+tuples consiere comme une constante 
+
+dictionnaire forme de cle valeur 
+
